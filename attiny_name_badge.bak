@@ -1,0 +1,27 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 4xxx:4001 U?
+U 2 1 5D604C0F
+P 7150 1400
+F 0 "U?" H 7150 1725 50  0000 C CNN
+F 1 "4001" H 7150 1634 50  0000 C CNN
+F 2 "" H 7150 1400 50  0001 C CNN
+F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4000bms-01bms-02bms-25bms.pdf" H 7150 1400 50  0001 C CNN
+	2    7150 1400
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
