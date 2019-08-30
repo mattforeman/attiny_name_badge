@@ -1,4 +1,6 @@
 # attiny_name_badge
-simple attiny driven name badge with easy to modify name area
+simple attiny driven name badge with leds
 
-this is in NO WAY COMPLETE. will update README when a useable version is ready.
+board should be in working state minus software (incoming).
+
+generate text/images using Svg2Shenzhen (https://github.com/badgeek/svg2shenzhen) plugin and import into KICAD.
